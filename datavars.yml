@@ -1,0 +1,8 @@
+---
+host_ports:
+    - lo0
+    - xe-0/1/0
+    - xe-0/1/1
+
+description:
+    - Entered by Pyez Jinja2 Template
